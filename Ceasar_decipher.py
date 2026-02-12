@@ -2,7 +2,8 @@
 Ceasar cipher decryption code
 Mitro Saunio
 """
-N_ALPHABETS=26
+ALPHABETS = "ABCDEFGHIJKLMNOPQRSTUVWXYZ"
+N_ALPHABETS=len(ALPHABETS)
 
 #Your code here
 
