@@ -29,3 +29,4 @@ if __name__=="__main__":
         M_received = D(K, C)
         print(f"Key {K}: {M_received}")
     print("\n***------***------***------***")
+    print("\nThank you, see you soon!\nProgram ending...")
